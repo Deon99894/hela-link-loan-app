@@ -1,0 +1,23 @@
+{
+  "name": "hela-link-loan-app",
+  "version": "1.0.0",
+  "description": "A Full-Stack loan application System With User Submission, admin dashboard and sqlite database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loan",
+    "application",
+    "sqlite",
+    "admin",
+    "dashboard"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
